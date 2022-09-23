@@ -1,0 +1,21 @@
+body {
+    background-color: lightyellow;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input, button {
+    width: 100%;
+    max-width: 200px;
+    padding: 8px;
+}
+
+button {
+    color: white;
+    background-color: darkblue;
+}
